@@ -1,16 +1,33 @@
-## Hi there 👋
+## Hi there. I am Jaxon, a freshman Computer Engineer at Embry Riddle Aeronautical University.
 
-<!--
-**ActionJGaming/ActionJGaming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning assembly.
+- 👯 I’m looking to collaborate on literally anything that will give me real coding experience for multi-file programs.
+- 🤔 I’m looking for help with Learning everything in general.
+- 📫 How to reach me: email me at: actionjgaming@gmail.com
+- ⚡ Fun fact: I love optimization.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### Current Coding Languages: 
+  #### Python
+  - [x] Beginner
+  - [ ] Intermediate
+  - [ ] Expert
+  #### MATLAB
+  - [x] Beginner
+  - [ ] Intermediate
+  - [ ] Expert
+  #### C
+  - [x] Beginner
+  - [ ] Intermediate
+  - [ ] Expert
+  #### Assembly
+  - [ ] Beginner
+  - [ ] Intermediate
+  - [ ] Expert
+ 
+  ### Ones I want to learn:
+  - Java (plus modding)
+  - C++
+  - C#
+  - CSS
+  - (wow a lotta Cs here, much unlike my grades)
+  *this is not a full list*
