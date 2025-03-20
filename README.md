@@ -30,4 +30,6 @@
   - C#
   - CSS
   - (wow a lotta Cs here, much unlike my grades)
-  *this is not a full list*
+
+
+*this is not a full list of everything I want to learn.*
